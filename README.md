@@ -4,7 +4,7 @@ A strategic board game implementation in Java where players place stones based o
 
 ## Gameplay Demo
 
-[Watch the full AI vs AI demonstration](KiviGameDemo.mp4)
+[Watch the full AI vs AI demonstration]([KiviGameDemo.mp4](https://github.com/maxdychin/kivi-board-game/blob/main/KiviGameDemo.mp4))
 
 ## My Contributions
 
